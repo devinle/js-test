@@ -1,4 +1,5 @@
-	document.addEventListener('DOMContentLoaded', () => {
+	// Script
+    document.addEventListener('DOMContentLoaded', () => {
     // Get the wrapper.
 		const block = document.querySelector('.q-and-a');
 
